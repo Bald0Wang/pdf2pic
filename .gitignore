@@ -1,1 +1,8 @@
 output/
+*.pdf
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.pyc
